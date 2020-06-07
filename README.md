@@ -1,2 +1,0 @@
-# DisplaystylingbasedOnTiming
-Created with CodeSandbox
